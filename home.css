@@ -36,8 +36,8 @@ text-decoration:none;
     clear: both;
 }
 
-li:not(:last-child) {
-    margin-bottom: 5px;
+li{
+  margin: 10px 0;
 }
 
 @media(max-width: 700px){
