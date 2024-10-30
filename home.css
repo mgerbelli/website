@@ -54,12 +54,12 @@ li{
 
 @media(min-width: 701px){
 .col1 {
-	width: 70%;
+	width: 60%;
     float: left;
     padding: 0;
 }
 .col2 {
-	width: 25%;
+	width: 35%;
     float: right;
     padding: 0;
 }
